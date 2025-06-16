@@ -1,6 +1,6 @@
 const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click', function () {
-    alert('¡Sabía que dirías que sí! :D');
+    alert('Yo se chele, yo se que soy la alegria de tu vida');
 });
 
 const noBtn = document.querySelector('#noBtn');
